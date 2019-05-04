@@ -1,3 +1,4 @@
 ﻿  main.cpp
-c:\users\patricia\desktop\dev\machinazadace\blackjack\main.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\patricia\desktop\dev\machinazadace\blackjack\main.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\patricia\desktop\dev\machinazadace\blackjack\main.cpp(59): warning C4715: 'whoIsTheWinner': not all control paths return a value
   Blackjack.vcxproj -> C:\Users\Patricia\Desktop\Dev\MachinaZadace\Blackjack\Debug\Blackjack.exe
